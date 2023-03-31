@@ -1,2 +1,4 @@
 SECRETS
 pods_env
+venv
+.DS_Store
